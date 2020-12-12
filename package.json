@@ -1,0 +1,25 @@
+{
+  "name": "hw12_employees",
+  "version": "1.0.0",
+  "description": "Employee Tracker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColmanWebster/hw12_employees.git"
+  },
+  "author": "Colman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColmanWebster/hw12_employees/issues"
+  },
+  "homepage": "https://github.com/ColmanWebster/hw12_employees#readme",
+  "dependencies": {
+    "console-table-printer": "^1.6.3",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  }
+}
