@@ -14,10 +14,10 @@ var connection = mysql.createConnection({
     port: 3306,
   
     // Your username
-    user: "root",
+    user: "username",
   
     // Your password
-    password: "showmewhat",
+    password: "password",
     database: "employees_db"
   });
 
